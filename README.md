@@ -1,3 +1,5 @@
+For a data-driven overview of nutritional data relevant to disease management, please refer to the report accessible via the link below. This analysis presents a detailed breakdown of dietary information and its potential impact on health conditions, considering factors like activity level, dietary choices, and consumption patterns.
+https://drive.google.com/drive/folders/1KtvM-bwa5DstXpvaNV5c1grYa1ZQnr-0?usp=sharing
 # Analysis-of-Nutritional-Data-for-Disease-Management
 
 ![image](https://github.com/user-attachments/assets/02b0420a-7cf2-48cf-8264-bcbb3eab559f)
